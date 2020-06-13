@@ -1,0 +1,10 @@
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\ventana1\ventana1\bin\Debug\ventana1.exe.config
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\ventana1\ventana1\bin\Debug\ventana1.exe
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\ventana1\ventana1\bin\Debug\ventana1.pdb
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\ventana1\ventana1\obj\Debug\ventana1.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\ventana1\ventana1\obj\Debug\ventana1.Form1.resources
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\ventana1\ventana1\obj\Debug\ventana1.Properties.Resources.resources
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\ventana1\ventana1\obj\Debug\ventana1.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\ventana1\ventana1\obj\Debug\ventana1.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\ventana1\ventana1\obj\Debug\ventana1.exe
+D:\Documentos\Visual Studio 2019\Soluciones Visual Studio 2019\ventana1\ventana1\obj\Debug\ventana1.pdb
